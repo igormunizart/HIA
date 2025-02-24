@@ -1,8 +1,8 @@
 {
-    "extensions": [
-        {
-            "name": "org.hia.addon1",
-            "manifest": "extensions/org.hia.addon1/blender_manifest.json"
-        }
-    ]
+  "extensions": [
+    {
+      "name": "org.hia.addon1",
+      "manifest": "extensions/org.hia.addon1/blender_manifest.json"
+    }
+  ]
 }

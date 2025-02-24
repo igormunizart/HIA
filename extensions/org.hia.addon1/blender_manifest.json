@@ -1,8 +1,8 @@
 {
-    "name": "HIA",
-    "description": "Repositório de Extensões HIA para Blender",
-    "author": "Seu Nome",
+    "name": "HIA Addon",
+    "description": "Primeiro addon HIA",
+    "author": "HIA Team",
     "version": "1.0.0",
     "blender_version": ["4.3"],
-    "category": "Utility"
+    "category": "System"
 }
