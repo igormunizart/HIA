@@ -82,6 +82,33 @@
       "archive_url": "./pes_v0.0.1.zip",
       "archive_size": 4125,
       "archive_hash": "sha256:07a539ec8efa04a2c90dfe2748abf20d0af66e666e43721245f5a0c1a76c7e3e"
+    },
+    {
+      "schema_version": "0.0.2",
+      "id": "pes",
+      "name": "Poba e Sagu",
+      "tagline": "descri\u00e7\u00e3o",
+      "version": "0.0.2",
+      "type": "add-on",
+      "maintainer": "Igor Muniz",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "site.com",
+      "copyright": [
+        "2025 Igor Muniz, Histeria Studios"
+      ],
+      "permissions": {
+        "files": "Save txt files to disk"
+      },
+      "tags": [
+        "Anima\u00e7\u00e3o",
+        "Rig"
+      ],
+      "archive_url": "./pes_v0.0.2.zip",
+      "archive_size": 3847,
+      "archive_hash": "sha256:26d709908d58da4fc8650454aec68cb429e855eafc2943654bb43b39316ed99f"
     }
   ]
 }
