@@ -10,5 +10,15 @@
         "17": "https://dropbox.com/.../PES_CHR_Poba_RIG_v17.blend?dl=1"
       }
     }
+    "PES_CHR_Sagu_RIG": {
+      "latest_version": 12,
+      "download_url": "https://www.dropbox.com/scl/fi/sk3ikeilztk2w1nkhntcr/PES_CHR_Poba_RIG_v19.blend?rlkey=krrmrgbt4copcekdm8kc6uabc&st=dyfpn74o&dl=1",
+      "description": "Personagem Sagu",
+      "versions": {
+        "12": "https://www.dropbox.com/scl/fi/sk3ikeilztk2w1nkhntcr/PES_CHR_Poba_RIG_v19.blend?rlkey=krrmrgbt4copcekdm8kc6uabc&st=dyfpn74o&dl=1",
+        "11": "https://dropbox.com/.../PES_CHR_Poba_RIG_v18.blend?dl=1",
+        "10": "https://dropbox.com/.../PES_CHR_Poba_RIG_v17.blend?dl=1"
+      }
+    }
   }
 }
