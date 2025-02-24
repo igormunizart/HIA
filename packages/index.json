@@ -57,11 +57,11 @@
       "archive_hash": "sha256:36e77bb66d4e5e97686df86a683279b71ffe472ece1e798acb71ce8e43469db7"
     },
     {
-      "schema_version": "0.0.4",
+      "schema_version": "0.0.5",
       "id": "pes",
       "name": "Poba e Sagu",
       "tagline": "Addon para o projeto Poba e Sagu - Histeria.studios",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "type": "add-on",
       "maintainer": "Igor Muniz",
       "license": [
@@ -79,9 +79,9 @@
         "Anima\u00e7\u00e3o",
         "Rig"
       ],
-      "archive_url": "./pes_v0.0.4.zip",
-      "archive_size": 4075,
-      "archive_hash": "sha256:fb789ebcff560cd76158742824d9855c9dabe77a3a5732791d68153a131ac508"
+      "archive_url": "./pes_v0.0.5.zip",
+      "archive_size": 4323,
+      "archive_hash": "sha256:4c4c39696deacf0a5d12e2b3ef9f0f2a9dba7f10726048696a5fa32b3ad88c93"
     }
   ]
 }
