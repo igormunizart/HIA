@@ -1,0 +1,60 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "amp_rig_ui",
+      "name": "AniMatePro - Rig UI",
+      "tagline": "Supercharge your Character UIs",
+      "version": "1.0.35",
+      "type": "add-on",
+      "maintainer": "not that NDA <nda@notthatnda.com>",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "copyright": [
+        "2002-2024 Jose Ignacio (not that NDA) de Andres"
+      ],
+      "permissions": [
+        "files",
+        "network"
+      ],
+      "tags": [
+        "Rigging",
+        "Animation"
+      ],
+      "archive_url": "./AMP_Rig_UI_v1.0.35.zip",
+      "archive_size": 240629,
+      "archive_hash": "sha256:c42cd10d7e1726a77269875e192643cb84af6d7d9e1b916745fffd16557606b9"
+    },
+    {
+      "schema_version": "2.0.0",
+      "id": "lens_sim",
+      "name": "Lens Sim",
+      "tagline": "Simulates real life lenses with the Ray Portal BSDF material node",
+      "version": "2.0.0",
+      "type": "add-on",
+      "maintainer": "H\u00e5vard Krut\u00e5 Dalen",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://blendermarket.com/products/lens-sim",
+      "copyright": [
+        "2024 H\u00e5vard Dalen"
+      ],
+      "permissions": {
+        "files": "Save txt files to disk"
+      },
+      "tags": [
+        "Render",
+        "Camera"
+      ],
+      "archive_url": "./LensSim_2.0.0.zip",
+      "archive_size": 4547498,
+      "archive_hash": "sha256:36e77bb66d4e5e97686df86a683279b71ffe472ece1e798acb71ce8e43469db7"
+    }
+  ]
+}
