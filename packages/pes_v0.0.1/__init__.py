@@ -1,10 +1,10 @@
 bl_info = {
     "name": "PeS",
-    "author": "Seu Nome",
-    "version": (0, 0, 2),
+    "author": "Igor Muniz",
+    "version": (0, 0, 3),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > PeS",
-    "description": "Download e importação de personagens do PeS",
+    "description": "Addon feito para facilitar o processo de atualição e import de rigs de Poba e Sagu",
     "warning": "",
     "category": "Import",
 }
@@ -36,7 +36,7 @@ def get_download_path():
     if not current_blend:
         return None
     parent_dir = os.path.dirname(os.path.dirname(current_blend))
-    return os.path.join(parent_dir, "1_IN", "3_RIGs")
+    return os.path.join(parent_dir, "0_IN", "3_RIGs")
 
 def load_rigs_database():
     """Carrega o banco de dados de rigs do JSON"""

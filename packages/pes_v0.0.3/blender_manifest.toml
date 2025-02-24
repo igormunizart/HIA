@@ -1,9 +1,9 @@
-schema_version = "0.0.2"
+schema_version = "0.0.3"
 
 id = "pes"
-version = "0.0.2"
+version = "0.0.3"
 name = "Poba e Sagu"
-tagline = "descrição"
+tagline = "Addon para o projeto Poba e Sagu - Histeria.studios"
 type = "add-on"
 
 maintainer = "Igor Muniz"
