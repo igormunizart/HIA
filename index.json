@@ -1,4 +1,7 @@
 {
+  "name": "HIA Extensions",
+  "description": "Repositório de extensões HIA para Blender",
+  "version": "1.0.0",
   "extensions": [
     {
       "name": "org.hia.addon1",
