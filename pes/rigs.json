@@ -1,0 +1,14 @@
+{
+    "rigs": {
+        "PES_CHR_Poba_RIG": {
+            "latest_version": 19,
+            "download_url": "https://www.dropbox.com/s/.../PES_CHR_Poba_RIG_v19.blend?dl=1",
+            "description": "Personagem Poba"
+        },
+        "PES_CHR_Sagu_RIG": {
+            "latest_version": 10,
+            "download_url": "https://www.dropbox.com/s/.../PES_CHR_Sagu_RIG_v10.blend?dl=1",
+            "description": "Personagem Sagu"
+        }
+    }
+}
