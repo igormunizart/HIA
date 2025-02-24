@@ -1,8 +1,0 @@
-{
-    "name": "HIA Addon",
-    "description": "Primeiro addon HIA",
-    "author": "HIA Team",
-    "version": "1.0.0",
-    "blender_version": ["4.3"],
-    "category": "System"
-}
