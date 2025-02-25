@@ -1,10 +1,11 @@
 {
   "rigs": {
     "PES_CHR_Poba_RIG": {
-      "latest_version": 19,
-      "download_url": "https://www.dropbox.com/scl/fi/sk3ikeilztk2w1nkhntcr/PES_CHR_Poba_RIG_v19.blend?rlkey=krrmrgbt4copcekdm8kc6uabc&st=dyfpn74o&dl=1",
+      "latest_version": 20,
+      "download_url": "https://www.dropbox.com/scl/fi/0hjprczlqbu6x1o1mwvij/PES_CHR_Poba_RIG_v20.blend?rlkey=sclrzg2c8hz8sazbr72fx8npz&dl=1",
       "description": "Personagem Poba",
       "versions": {
+        "20": "https://www.dropbox.com/scl/fi/0hjprczlqbu6x1o1mwvij/PES_CHR_Poba_RIG_v20.blend?rlkey=sclrzg2c8hz8sazbr72fx8npz&dl=1",
         "19": "https://www.dropbox.com/scl/fi/sk3ikeilztk2w1nkhntcr/PES_CHR_Poba_RIG_v19.blend?rlkey=krrmrgbt4copcekdm8kc6uabc&st=dyfpn74o&dl=1",
         "18": "https://www.dropbox.com/scl/fi/2dncy8yizv658sjr54qwb/PES_CHR_Poba_RIG_v18.blend?rlkey=stp3rba9wm9ggnii4u1jl1du9&dl=1",
         "17": "https://www.dropbox.com/scl/fi/dskary6vmj82ct142vjz4/PES_CHR_Poba_RIG_v17.blend?rlkey=3hlqeons9a1361titi3ntkci3&dl=1"
