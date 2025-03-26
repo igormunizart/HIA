@@ -84,11 +84,11 @@
       "archive_hash": "sha256:d73c091156d744fd5039ee694d8cb335d11516bebecefb30b4fa99408327e7df"
     },
     {
-      "schema_version": "2.1.0",
+      "schema_version": "2.0.0",
       "id": "view_layer_generator",
       "name": "Blender View Layer Generator",
       "tagline": "Addon para cria\u00e7\u00e3o e gerenciamento avan\u00e7ado de View Layers no Blender",
-      "version": "2.1.0",
+      "version": "2.2.1",
       "type": "add-on",
       "maintainer": "Histeria",
       "license": [
@@ -107,9 +107,9 @@
         "View Layers",
         "Blender"
       ],
-      "archive_url": "./ViewLayer-Generator_2.1.0.zip",
-      "archive_size": 14917,
-      "archive_hash": "sha256:f6f7bb05220fc7029d81edb3f63acb30ef5f24e34740c71dfe804fc7a4ec2596"
+      "archive_url": "./ViewLayer-Generator_2.2.1.zip",
+      "archive_size": 14879,
+      "archive_hash": "sha256:752f06b1aec9db620a01237776230331eccd94ac181cca7c3b0cac098e12b7c6"
     }
   ]
 }
