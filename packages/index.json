@@ -30,6 +30,29 @@
       "archive_hash": "sha256:c42cd10d7e1726a77269875e192643cb84af6d7d9e1b916745fffd16557606b9"
     },
     {
+      "schema_version": "1.0.0",
+      "id": "auto_node_outputs",
+      "name": "Auto Node Outputs",
+      "tagline": "Automatically connect ViewLayers to File Output nodes",
+      "version": "1.6.5",
+      "type": "add-on",
+      "maintainer": "claudiomarks",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "copyright": [
+        "2025 Histeria"
+      ],
+      "tags": [
+        "Compositing",
+        "Render"
+      ],
+      "archive_url": "./auto_node_outputs-1.6.5.zip",
+      "archive_size": 11799,
+      "archive_hash": "sha256:98cbcf4a57ac93793ec416031c33ee6e29043cfcff0d60ca64d6cccd1e352554"
+    },
+    {
       "schema_version": "2.0.0",
       "id": "lens_sim",
       "name": "Lens Sim",
@@ -82,14 +105,13 @@
       "archive_url": "./pes_v0.0.8.zip",
       "archive_size": 4660,
       "archive_hash": "sha256:d73c091156d744fd5039ee694d8cb335d11516bebecefb30b4fa99408327e7df"
-<<<<<<< HEAD
     },
     {
       "schema_version": "2.0.0",
       "id": "view_layer_generator",
       "name": "Blender View Layer Generator",
       "tagline": "Addon para cria\u00e7\u00e3o e gerenciamento avan\u00e7ado de View Layers no Blender",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "type": "add-on",
       "maintainer": "Histeria",
       "license": [
@@ -108,11 +130,9 @@
         "View Layers",
         "Blender"
       ],
-      "archive_url": "./ViewLayer-Generator_2.2.1.zip",
-      "archive_size": 14879,
-      "archive_hash": "sha256:752f06b1aec9db620a01237776230331eccd94ac181cca7c3b0cac098e12b7c6"
-=======
->>>>>>> parent of fe842c4 (Inclusao do novo addon)
+      "archive_url": "./ViewLayer-Generator_2.2.2.zip",
+      "archive_size": 14903,
+      "archive_hash": "sha256:b0832a35c9477c1437d25c1b268de69bbdd3ec4e62a48a6af826159ee1780bc4"
     }
   ]
 }
