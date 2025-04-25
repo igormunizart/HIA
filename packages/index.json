@@ -53,6 +53,25 @@
       "archive_hash": "sha256:98cbcf4a57ac93793ec416031c33ee6e29043cfcff0d60ca64d6cccd1e352554"
     },
     {
+      "schema_version": "1.0.0",
+      "id": "ha_animbot",
+      "name": "HA_animbot",
+      "tagline": "Animbot? for blender",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "Igor Muniz",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Animation"
+      ],
+      "archive_url": "./ha_animbot_0.0.1.zip",
+      "archive_size": 4234,
+      "archive_hash": "sha256:24070065ba2c7b9b31313c4265ac7568357f6f557c8a5920f976dcdcf0048e74"
+    },
+    {
       "schema_version": "2.0.0",
       "id": "lens_sim",
       "name": "Lens Sim",
