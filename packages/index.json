@@ -54,6 +54,44 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "ha_animbot",
+      "name": "HA_animbot",
+      "tagline": "Animbot? for blender",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "Igor Muniz",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Animation"
+      ],
+      "archive_url": "./ha_animbot_0.0.1.zip",
+      "archive_size": 4234,
+      "archive_hash": "sha256:24070065ba2c7b9b31313c4265ac7568357f6f557c8a5920f976dcdcf0048e74"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hia_pes_eyetorig",
+      "name": "HiA_PES_EyeToRig",
+      "tagline": "Transforme objetos selecionados para prp.Olhos-rig",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Igor Muniz",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.3.2",
+      "tags": [
+        "3D View"
+      ],
+      "archive_url": "./hia_pes_eyetorig_1.0.0.zip",
+      "archive_size": 1441440,
+      "archive_hash": "sha256:3bf1682d0532100ddbc007a9fc27a3b687a777e333f946f20f99f5f0a1b1605c"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "hia_previz",
       "name": "HiA Previz",
       "tagline": "Addon para o pipeline de Previz do Histera Studios!",
