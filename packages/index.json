@@ -54,6 +54,25 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "ha_animbot",
+      "name": "HA_animbot",
+      "tagline": "Animbot? for blender",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "Igor Muniz",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Animation"
+      ],
+      "archive_url": "./ha_animbot_0.0.1.zip",
+      "archive_size": 4234,
+      "archive_hash": "sha256:24070065ba2c7b9b31313c4265ac7568357f6f557c8a5920f976dcdcf0048e74"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "hia_previz",
       "name": "HiA Previz",
       "tagline": "Addon para o pipeline de Previz do Histera Studios!",
@@ -70,6 +89,25 @@
       "archive_url": "./hia_previz_0.0.1.zip",
       "archive_size": 3697,
       "archive_hash": "sha256:e546302e1730fa514df030e91b3de1cf284b354c250754e6d9775870abfb93d3"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hia_previz",
+      "name": "HiA Previz",
+      "tagline": "Addon para o pipeline de Previz do Histera Studios!",
+      "version": "0.0.2",
+      "type": "add-on",
+      "maintainer": "Igor Munz",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "tags": [
+        "3D View"
+      ],
+      "archive_url": "./hia_previz_0.0.2.zip",
+      "archive_size": 3735,
+      "archive_hash": "sha256:473b42ba6ff94757452ba32611a3c8eadd66e677b621ae266a34b02465d7626a"
     },
     {
       "schema_version": "2.0.0",
