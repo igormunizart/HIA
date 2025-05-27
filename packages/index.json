@@ -73,22 +73,22 @@
     },
     {
       "schema_version": "1.0.0",
-      "id": "hia_previz",
-      "name": "HiA Previz",
-      "tagline": "Addon para o pipeline de Previz do Histera Studios!",
-      "version": "0.0.1",
+      "id": "hia_pes_eyetorig",
+      "name": "HiA_PES_EyeToRig",
+      "tagline": "Transforme objetos selecionados para prp.Olhos-rig",
+      "version": "1.0.0",
       "type": "add-on",
-      "maintainer": "Igor Munz",
+      "maintainer": "Igor Muniz",
       "license": [
         "SPDX:GPL-2.0-or-later"
       ],
-      "blender_version_min": "4.3.0",
+      "blender_version_min": "4.3.2",
       "tags": [
         "3D View"
       ],
-      "archive_url": "./hia_previz_0.0.1.zip",
-      "archive_size": 3697,
-      "archive_hash": "sha256:e546302e1730fa514df030e91b3de1cf284b354c250754e6d9775870abfb93d3"
+      "archive_url": "./hia_pes_eyetorig_1.0.0.zip",
+      "archive_size": 1441440,
+      "archive_hash": "sha256:3bf1682d0532100ddbc007a9fc27a3b687a777e333f946f20f99f5f0a1b1605c"
     },
     {
       "schema_version": "1.0.0",
