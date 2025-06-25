@@ -137,6 +137,26 @@
       "archive_hash": "sha256:36e77bb66d4e5e97686df86a683279b71ffe472ece1e798acb71ce8e43469db7"
     },
     {
+      "schema_version": "1.0.0",
+      "id": "mixamo",
+      "name": "Mixamo Rig for Blender",
+      "tagline": "Generate a control rig from the selected Mixamo Fbx skeleton",
+      "version": "1.1.1",
+      "type": "add-on",
+      "maintainer": "Mixamo, Xin, TinkerBoi <support@tinkerboi.com>",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.0.0",
+      "website": "https://blendermarket.com/creators/tinkerboi",
+      "tags": [
+        "Rigging"
+      ],
+      "archive_url": "./mixamo_blender-1.1.1.zip",
+      "archive_size": 177818,
+      "archive_hash": "sha256:db1d66ef388e5c8f109d65afd9f23de9a310761a5106751acb8bcf04435393ec"
+    },
+    {
       "schema_version": "0.0.8",
       "id": "pes",
       "name": "Poba e Sagu",
