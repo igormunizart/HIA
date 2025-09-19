@@ -12,10 +12,11 @@
       }
     },
     "PES_CHR_Sagu_RIG": {
-        "latest_version": 16,
-        "download_url": "https://www.dropbox.com/scl/fi/87ecmpy2ptwm9skcwp386/PES_CHR_Sagu_RIG_v16.blend?rlkey=v0b2k1xxim1uk0hyttnsirsu6&dl=1",
+        "latest_version": 17,
+        "download_url": "https://www.dropbox.com/scl/fi/wxgfz8bf718qpqj7znorf/PES_CHR_Sagu_RIG_v17.blend?rlkey=maf42haqdt1oxw0d8b8iug9lz&dl=1",
         "description": "Personagem Sagu",
         "versions": {
+            "17": "https://www.dropbox.com/scl/fi/wxgfz8bf718qpqj7znorf/PES_CHR_Sagu_RIG_v17.blend?rlkey=maf42haqdt1oxw0d8b8iug9lz&dl=1",
             "16": "https://www.dropbox.com/scl/fi/87ecmpy2ptwm9skcwp386/PES_CHR_Sagu_RIG_v16.blend?rlkey=v0b2k1xxim1uk0hyttnsirsu6&dl=1",
             "15": "https://www.dropbox.com/scl/fi/bcn0vcgk851cc3qit10ks/PES_CHR_Sagu_RIG_v15.blend?rlkey=kj83c9ops5p4rnd5re11y93kv&dl=1",
             "14": "https://www.dropbox.com/scl/fi/ja9yilzq2w8490rx1xklf/PES_CHR_Sagu_RIG_v14.blend?rlkey=2uptrq9e0n2sz6av777vbyv4i&dl=1",
