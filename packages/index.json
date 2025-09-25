@@ -94,20 +94,20 @@
       "schema_version": "1.0.0",
       "id": "hia_previz",
       "name": "HiA Previz",
-      "tagline": "Addon para o pipeline de Previz do Histera Studios!",
-      "version": "0.0.4",
+      "tagline": "Addon para o pipeline de Previz do Histeria Studios!.",
+      "version": "2.0.0",
       "type": "add-on",
-      "maintainer": "Igor Munz",
+      "maintainer": "Igor Muniz",
       "license": [
         "SPDX:GPL-2.0-or-later"
       ],
-      "blender_version_min": "4.3.0",
+      "blender_version_min": "4.2.0",
       "tags": [
         "3D View"
       ],
-      "archive_url": "./hia_previz_0.0.4.zip",
-      "archive_size": 4109,
-      "archive_hash": "sha256:16e2f90fb759b5c64c27832a1f7c2b30c102ed2b56a704bf588efb133ed0ef42"
+      "archive_url": "./hia_previz_2.0.0.zip",
+      "archive_size": 8813,
+      "archive_hash": "sha256:03541fd157e9f8eb887ca415844e11116d841b3e0a67d1ece507c286ed71feba"
     },
     {
       "schema_version": "2.0.0",
